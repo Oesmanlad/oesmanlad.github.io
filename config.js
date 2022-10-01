@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'WhatsApp',
-					link: 'https://web.whatsapp.com/',
+					name: 'Youtube',
+					link: 'https://youtube.com/',
 				},
 			],
 		},
